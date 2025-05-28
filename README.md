@@ -17,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=py,github,vscode,visualstudio,c#" />
 </p>
 
 ---
