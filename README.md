@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center"> >z5an</h1>
+<h1 align="center"> z5an</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&width=435&lines=I+build+cool+stuff+💻;I+am+a+noob+💩;I+love+clean+UI+%26+clever+UX+🎨;Always+learning+new+things+📚" alt="Typing SVG" />
 </p>
