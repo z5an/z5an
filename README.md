@@ -25,7 +25,7 @@
 ### 💯Socials
 
 <p align="left">
-  <a href="https://Fakecrime.bio" target="_blank"><img src="https://img.shields.io/badge/Bio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/z5an" target="_blank"><img src="https://img.shields.io/badge/Bio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
