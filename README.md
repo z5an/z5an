@@ -6,15 +6,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently **learning**
-- 🌱 Learning: **C#, Python**
-- 🎯 Goal: **Build things people love using**
-
----
-
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,github,vscode,visualstudio,cs" />
@@ -22,7 +14,7 @@
 
 ---
 
-### 💯Socials
+### Socials
 
 <p align="left">
   <a href="https://github.com/z5an" target="_blank"><img src="https://img.shields.io/badge/Bio-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
